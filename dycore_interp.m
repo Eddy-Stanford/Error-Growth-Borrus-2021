@@ -1,4 +1,4 @@
-githfor hlevel = 1
+for hlevel = 1
     for run = 4:9
         clear u u_interp ps bk sig T T_interp
         filebase = '/oak/stanford/schools/ees/aditis2/dycore_tree/run_IP_tree/workdir_IP_tree_gauss0/ary_';
