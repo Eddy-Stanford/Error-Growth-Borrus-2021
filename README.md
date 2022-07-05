@@ -19,3 +19,5 @@ Allows you to create a surface plot of latitude, temperature, and saturation tim
 Calculates saturation time without all the other plots and calculations generated from AM4_Master#.m
 ## dycore_interp.m
 This file interpolates the raw output from dycore runs, and is meant to be run in parallel. 
+## SST Play
+Allows you to change SST profiles of AM4 runs
